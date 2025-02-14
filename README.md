@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/4961e324-1862-456e-9e19-63760faf66d8)
+
+
 # Enterprise-Grade Reference Projects Following Best Practices
 
 Welcome to the curated list of enterprise-grade reference projects. These projects follow best practices and cover various categories such as software development, cloud-native, containers, security, DevOps, observability, networking, machine learning, databases, and frontend development.
